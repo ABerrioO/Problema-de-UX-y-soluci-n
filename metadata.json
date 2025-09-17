@@ -1,0 +1,5 @@
+{
+  "name": "Análisis UX de Sololearn y Propuesta",
+  "description": "Una aplicación web que analiza un problema de UX en Sololearn, propone una solución de diseño y demuestra un generador de rutas de aprendizaje personalizado impulsado por la API de Gemini.",
+  "requestFramePermissions": []
+}
